@@ -18,18 +18,18 @@ To get started with this project, you'll need to have Python installed on your s
 
 ### You can install the necessary libraries using pip:
 
-  bash
+  - bash
 
-  pip install numpy opencv-python-headless
+  - pip install numpy opencv-python-headless
 
 Note: tkinter typically comes pre-installed with Python, but if it is not available, you can install it based on your operating system.
 Usage
 
 ### To run the application, execute the script using Python:
 
-bash
+- bash
 
-python image_filter_app.py
+- python image_filter_app.py
 
 ### Once the application starts:
 
